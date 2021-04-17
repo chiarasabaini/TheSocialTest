@@ -12,7 +12,7 @@ Breve descrizione del progetto
 **Scuola**: ITI "G. Marconi" - Verona)
 **Data**: 17-04-2021
 
-**Componenti**: [Sabaini Chiara](https://www.github.com/chiarasabaini) _(ricerca, sviluppo)_, [Cornel Grigor](https://www.github.com/cornelGrg) _(ricerca, sviluppo del database)_, [Foroncelli Claudio](https://www.github.com/claudio.claude) _(ricerca, design)_, [Poiata Andrian](https://www.github.com)
+**Componenti**: [Sabaini Chiara](https://www.github.com/chiarasabaini) _(ricerca, sviluppo)_, [Cornel Grigor](https://www.github.com/cornelGrg) _(ricerca, sviluppo del database)_, [Foroncelli Claudio](https://www.github.com/claudio.claude) _(ricerca, design)_, [Poiata Andrian](https://www.github.com/andrianpoiata) _(ricerca)_
 
 **Link al progetto:** [The Social Test](https://studio.code.org/projects/applab/teWAL9RVcH_I-qYFyrFhjlDCFtu7EB372hC6fnk2VkU)
 
