@@ -1,10 +1,16 @@
 # Concorso "Informatica e responsabilità sociale 2021"
-
+![Version](https://img.shields.io/badge/Version-01.01-brightgreen)
+![Author](https://img.shields.io/badge/Author-Sabaini_Chiara-blue) 
+![Author](https://img.shields.io/badge/Author-Cornel_Grigor-blue)
+![Author](https://img.shields.io/badge/Author-Foroncelli_Claudio-blue) 
+![Author](https://img.shields.io/badge/Author-Poiata_Andrian-blue) 
+![Platform](https://img.shields.io/badge/Platform-AppLab-orange)
 ---
 
 ## THE SOCIAL TEST
 
-Breve descrizione del progetto
+### Scopo del gioco
+Lo scopo del gioco è rispondere correttamente alle domande associate ad ogni numero, scoprendo così l'immagine nascosta
 
 ---
 
