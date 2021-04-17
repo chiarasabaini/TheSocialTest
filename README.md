@@ -10,7 +10,7 @@ Breve descrizione del progetto
 
 **Classe**: 4CI
 **Scuola**: ITI "G. Marconi" - Verona)
-**Data**: dd-04-2021
+**Data**: 17-04-2021
 
 **Componenti**: [Sabaini Chiara](https://www.github.com/chiarasabaini) _(ricerca, sviluppo)_, [Cornel Grigor](https://www.github.com/cornelGrg) _(ricerca, sviluppo del database)_, [Foroncelli Claudio](https://www.github.com/claudio.claude) _(ricerca, design)_, [Poiata Andrian](https://www.github.com)
 
