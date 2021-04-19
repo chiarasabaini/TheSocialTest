@@ -1,4 +1,4 @@
-# Concorso "Informatica e responsabilità sociale 2021"
+# <span style="color: #8975B0">Concorso "Informatica e responsabilità sociale 2021"</span>
 ![Version](https://img.shields.io/badge/Version-01.01-brightgreen)
 ![Author](https://img.shields.io/badge/Author-Cornel_Grigor-blue)
 ![Author](https://img.shields.io/badge/Author-Foroncelli_Claudio-blue) 
@@ -9,7 +9,7 @@
 
 ---
 
-## THE SOCIAL TEST
+## <span style="color: #36C7D0">THE SOCIAL TEST</span>
 
 ### Scopo del gioco
 Lo scopo del gioco è rispondere correttamente alle domande associate ad ogni numero, scoprendo così l'immagine nascosta.
