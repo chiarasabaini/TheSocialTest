@@ -4,7 +4,8 @@
 ![Author](https://img.shields.io/badge/Author-Foroncelli_Claudio-blue) 
 ![Author](https://img.shields.io/badge/Author-Poiata_Andrian-blue)
 ![Author](https://img.shields.io/badge/Author-Sabaini_Chiara-blue)
-![Platform](https://img.shields.io/badge/Platform-AppLab-orange)
+![Language](https://img.shields.io/badge/Language-Js-orange)
+![Platform](https://img.shields.io/badge/Platform-AppLab-purple)
 
 ---
 
