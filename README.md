@@ -26,4 +26,6 @@ Lo scopo del gioco è rispondere correttamente alle domande associate ad ogni nu
 
 **Link al progetto:** [The Social Test](https://studio.code.org/projects/applab/teWAL9RVcH_I-qYFyrFhjlDCFtu7EB372hC6fnk2VkU)
 
+**Link al sito:** [The Social Test's Manifesto](https://thesocialtest.surge.sh)
+
 **Link alla SCRUM Board:** [Trello](https://trello.com/b/TuydrieI)
