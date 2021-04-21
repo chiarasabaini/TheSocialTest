@@ -16,6 +16,24 @@ Lo scopo del gioco è rispondere correttamente alle domande associate ad ogni nu
 
 ---
 
+### Struttura dell'applicazione
+- Home screen
+    > Schermata iniziale, titolo, regole, bottone “play”.
+- Game screen
+    > Schermata del gioco, caselle da cliccare con sotto la foto, score.
+- Question screen
+    > Schermata con domanda e 4 opzioni.
+- Result screen
+    > Schermata con il risultato della risposta (giusto o sbagliato)
+- Unlocked screen
+    > Schermata che compare quando il giocatore vince.
+- Collection screen
+    > Galleria delle immagini sbloccate + immagini da sbloccare censurate
+- Picture screen
+    > Mostra la foto cliccata nella galleria.
+
+---
+
 **Classe**: 4CI
 
 **Scuola**: ITI "G. Marconi" - Verona
