@@ -22,6 +22,10 @@ header {
   height: 64px;
   -webkit-box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.3);
           box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.3);
+  padding: 0px 17%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 header nav {
@@ -75,12 +79,12 @@ header nav div#container-links a.container-link {
 }
 
 header nav div#container-links a.container-link:hover {
-  color: #ffffff;
+  color: #403359;
 }
 
 a {
   text-decoration: none;
-  color: #c0b6d5;
+  color: #403359;
 }
 
 li {
@@ -99,10 +103,19 @@ footer {
   padding: 12px;
   font-size: 12px;
   text-align: center;
+  color: black;
 }
 
 footer blockquote {
   font-style: italic;
+}
+
+footer a {
+  color: black;
+}
+
+footer a:hover {
+  color: white;
 }
 
 div#content {

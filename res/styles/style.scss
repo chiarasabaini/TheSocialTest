@@ -36,6 +36,8 @@ header {
     height: 64px;
 
     box-shadow: $shadow-light;
+    padding: 0px 17%;
+    align-items: center;
 
     nav {
         height: 100%;
@@ -74,7 +76,7 @@ header {
                 padding-right: 5px;
 
                 &:hover{
-                    color: $primary-text;
+                    color: $primary-darker;
                 }
 
             }
@@ -84,7 +86,7 @@ header {
 
 a {
     text-decoration: none;
-    color: $primary-lighter;
+    color: $primary-darker;
 }
 
 li {
@@ -103,9 +105,17 @@ footer {
     padding: 12px;
     font-size: 12px;
     text-align: center;
+    color:rgb(0, 0, 0);
 
     blockquote {
         font-style: italic;
+    }
+
+    a {
+        color:rgb(0, 0, 0);
+        &:hover{
+            color: rgb(255, 255, 255);
+        }
     }
 }
 
