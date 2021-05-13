@@ -100,7 +100,8 @@ hr {
 }
 
 footer {
-  padding: 12px;
+  position: relative;
+  padding: 47% 0 10% 0;
   font-size: 12px;
   text-align: center;
   color: black;
