@@ -223,4 +223,9 @@ div#table {
   top: 0px;
   z-index: 1;
 }
+
+.desc img {
+  max-width: 20%;
+  margin: 3%;
+}
 /*# sourceMappingURL=style.css.map */
